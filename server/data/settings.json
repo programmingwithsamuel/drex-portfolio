@@ -1,0 +1,41 @@
+{
+  "name": "Drex",
+  "title": "Full-Stack Developer",
+  "email": "programmingwithsamuel@gmail.com",
+  "github": "https://github.com/programmingwithsamuel",
+  "linkedin": "",
+  "location": "Nigeria",
+  "educationCourse": "Computer Science",
+  "educationSchool": "Nnamdi Azikiwe University · Nigeria",
+  "educationYears": "2026 — PRESENT",
+  "educationNote": "Learning the foundations of computing while building practical projects.",
+  "availability": "Available for opportunities",
+  "tagline": "I build digital experiences that solve real problems.",
+  "about": "I'm a Full-Stack Developer passionate about turning ideas into functional, modern and user-friendly digital products. I enjoy building websites, web applications and software solutions that solve real-world problems. I'm constantly learning, experimenting and improving my approach to software development.\n\nI'm open to opportunities as a Junior Full-Stack Developer, Frontend Developer, Backend Developer, Web Developer or Software Engineering Intern, as well as freelance projects and collaborations. My goal is to build impactful products, grow professionally and contribute to innovative technology solutions.",
+  "heroWords": [
+    "Full-Stack Developer",
+    "Problem Solver",
+    "Lifelong Learner"
+  ],
+  "cvUrl": "/uploads/1794331366707-6b897d06-2ea0-4b09-b2b5-f1693d301af8.pdf",
+  "profileImage": "/uploads/1794331336053-b1e6acb6-b67f-4fdb-ba34-489e07de7823.png",
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Python",
+    "React",
+    "Node.js",
+    "TypeScript",
+    "Git & GitHub",
+    "Flask",
+    "SQL"
+  ],
+  "services": [
+    "Responsive website development",
+    "Frontend development",
+    "Backend APIs",
+    "Website maintenance",
+    "AI integration"
+  ]
+}

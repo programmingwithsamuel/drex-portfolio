@@ -1,0 +1,49 @@
+[
+  {
+    "id": "f841a656-d8a2-4f91-a3f5-a578e81ea9e0",
+    "name": "Dabby Hair Sensation",
+    "category": "E-commerce(personal project)",
+    "description": "A product-focused online storefront with an admin area for managing products.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "node.js",
+      "supabase",
+      "sql"
+    ],
+    "liveUrl": "https://dabby-hair.vercel.app",
+    "githubUrl": "https://github.com/programmingwithsamuel/dabby-hair2",
+    "image": "/uploads/1794330045292-fb46fa74-2025-4a5f-ab77-cf10434facc8.png",
+    "featured": true
+  },
+  {
+    "id": "ea625068-dcfd-41b3-8eee-09b3b4ab50c1",
+    "name": "EduCore",
+    "category": "Education (personal project)",
+    "description": "A school class-management project built to organise classroom information and workflows.",
+    "tech": [
+      "Python",
+      "Flask",
+      "JavaScript"
+    ],
+    "liveUrl": "https://educore-pi-one.vercel.app/",
+    "githubUrl": "https://github.com/programmingwithsamuel/EduCore",
+    "image": "/uploads/1794330095386-e942cc81-7f1c-4330-9664-03b8856c1f55.png",
+    "featured": true
+  },
+  {
+    "id": "e0205236-b08d-4cfe-b1b0-844ad8043e23",
+    "name": "More projects coming soon plus other personal offline projects",
+    "category": "In progress",
+    "description": "I am always experimenting, learning and building. More work will appear here.",
+    "tech": [
+      "Learning",
+      "Building"
+    ],
+    "liveUrl": "",
+    "githubUrl": "",
+    "image": "/uploads/1794330469303-29858a17-08aa-433e-a1a1-6272bf6a71aa.png",
+    "featured": false
+  }
+]

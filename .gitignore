@@ -1,6 +1,13 @@
 node_modules/
 dist/
 .env
-server/data/*.json
+server/data/admin.json
+server/data/messages.json
 server/uploads/*
 !server/uploads/.gitkeep
+!server/uploads/*.png
+!server/uploads/*.jpg
+!server/uploads/*.jpeg
+!server/uploads/*.webp
+!server/uploads/*.gif
+!server/uploads/*.pdf

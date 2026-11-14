@@ -9,7 +9,9 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import { v4 as uuid } from 'uuid';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const app = express(); const PORT = process.env.PORT || 4000;
+const app = express();
+app.set('trust proxy', 1); // Render terminates HTTPS before forwarding requests.
+const PORT = process.env.PORT || 4000;
 const dataDir = path.join(__dirname, 'data'); const uploadDir = path.join(__dirname, 'uploads');
 fs.mkdirSync(dataDir, { recursive: true }); fs.mkdirSync(uploadDir, { recursive: true });
 const paths = { settings: path.join(dataDir,'settings.json'), projects: path.join(dataDir,'projects.json'), messages: path.join(dataDir,'messages.json'), admin: path.join(dataDir,'admin.json') };
